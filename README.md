@@ -14,22 +14,19 @@ $ npm install -g
 ## Usage
 Use the package from the directory where you would like to generate module folders or files
 
-Create a file 
+Create a file:
 
 ```sh
 cd my-app
-node-gen touch file-name or file-name.js
+node-gen touch <file-name> or <file-name.js>
 ```
 
-Create a module - will create directory and index.js inside directory
+Create a module (creates directory and index.js in given directory):
 
 ```sh
 node-gen mkdir <module-name>
 ```
 
-$ node-gen touch <file-name> or <file-name.js>
-
-$ node-gen mkdir <module-name>
 
 ## Notes
 Will convert camelcase names to dash (hyphen) separated names
