@@ -5,13 +5,7 @@ const program = require('commander');
 const { prompt } = require('inquirer'); 
 const { createFile, createModule } = require('./generator');
 
-
-let listFunction = (directory,options) => {
-  //some code here
-    console.log('my list hello');
-};
-
-// Craft questions to present to users
+// Questions for prompt
 const questions = [
   {
     type : 'input',
