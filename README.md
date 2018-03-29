@@ -2,7 +2,7 @@
 npm package to create directories and files with basic node templates using UNIX like commands touch and mkdir.
 
 ## Overview
-I work with NodeJS for server side applications and manually create modules and JS files, although simple and small I got tired of repeating the same small task so I wrote this to automatically generate common files.  This also helps to keep things consistent.
+I work with NodeJS for server side applications and manually create modules and JS files, although simple and small I got tired of repeating the same small task so I wrote this to automatically generate common files.  This also helps to keep things consistent. Why "node-gen" because "ed-cli" was already taken.
 
 ## Install
 Download or clone repo then:
@@ -43,8 +43,12 @@ module.export = API;
 ```
 
 ## TODO:
+Clean up
+
+Add template options ie; --html, --js etc..
+
 Add more commands
 
-Clean up
+Add tests
 
 Much more!
