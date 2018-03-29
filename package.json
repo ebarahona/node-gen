@@ -19,6 +19,11 @@
     "init"
   ],
   "author": "Ed Barahona Your Name <ebarahona@gmail.com> (http://edbarahona.com)",
+  "repository": {
+     "type" : "git",
+      "url" : "https://github.com/ebarahona/node-gen.git"
+  },
+  "bugs": "https://github.com/ebarahona/node-gen/issues",
   "license": "MIT",
   "dependencies": {
     "commander": "^2.15.1",
