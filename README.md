@@ -12,16 +12,16 @@ $ cd node-gen
 $ npm install -g
 
 ## Usage
-From any directory where you would like to generate module folders or files
-## Quick Overview
+Use the package from the directory where you would like to generate module folders or files
+
+Create a file 
 
 ```sh
-npx create-react-app my-app
 cd my-app
-npm start
+node-gen touch file-name or file-name.js
 ```
 
-Create module - will create directory and index.js inside directory
+Create a module - will create directory and index.js inside directory
 
 ```sh
 node-gen mkdir <module-name>
