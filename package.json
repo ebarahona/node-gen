@@ -19,7 +19,7 @@
     "init"
   ],
   "author": "Ed Barahona Your Name <ebarahona@gmail.com> (http://edbarahona.com)",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^2.15.1",
     "fs": "0.0.1-security",
