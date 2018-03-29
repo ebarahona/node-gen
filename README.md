@@ -19,7 +19,7 @@ $ node-gen touch <file-name> or <file-name.js>
 $ node-gen mkdir module-name
 
 ## Notes
-Will convert camecase names to dash (hyphen) separated names
+Will convert camelcase names to dash (hyphen) separated names
 
 ## Example output file
 ```javascript
