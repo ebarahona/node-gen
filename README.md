@@ -5,8 +5,10 @@ npm package to create directories and files with basic node templates using UNIX
 I work with NodeJS for server side applications and manually create modules and JS files although simple and small I got tired of repeating the same small task so I wrote this to automatically generate common files.  This also helps to keep things consistent.
 
 ## Install
-Download or clone repo
+Download or clone repo then:
+
 $ cd node-gen
+
 $ npm install -g
 
 ## Usage
