@@ -17,7 +17,7 @@ $ node-gen mkdir module-name
 ## Notes
 Will convert camecase names to dash (hyphen) separated names
 
-## Example output
+## Example output file
 ```javascript
 /* jshint node: true, devel: true */
 'use strict';
