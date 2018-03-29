@@ -16,7 +16,7 @@ From any directory where you would like to generate module folders or files
 
 $ node-gen touch <file-name> or <file-name.js>
 
-$ node-gen mkdir module-name
+$ node-gen mkdir <module-name>
 
 ## Notes
 Will convert camelcase names to dash (hyphen) separated names
