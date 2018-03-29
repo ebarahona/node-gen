@@ -11,7 +11,9 @@ $ npm install -g
 
 ## Usage
 From any directory where you would like to generate module folders or files
+
 $ node-gen touch <file-name> or <file-name.js>
+
 $ node-gen mkdir module-name
 
 ## Notes
@@ -36,4 +38,5 @@ module.export = API;
 
 ## TODO:
 Add more commands
+
 Much more!
