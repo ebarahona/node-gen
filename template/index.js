@@ -2,7 +2,7 @@
 'use strict';
 
 /**
- * Required Dependecies 
+ * Required Dependencies 
  * go here
  */
 
